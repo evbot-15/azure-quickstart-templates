@@ -23,6 +23,12 @@
         "description": "This is a Three Letter Acronym for your company name. 'CON' for Contoso for example."
       }
     },
+    "testParam": {
+      "type": "string",
+      "metadata": {
+        "description": "This is a test parameter."
+      }
+    },
     "allowAllConnections": {
       "type": "string",
       "allowedValues": [
